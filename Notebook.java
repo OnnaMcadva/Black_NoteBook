@@ -46,12 +46,6 @@ public class Notebook {
         );
     }
 
-    public static void main(String[] args) {
-        Notebook n = new Notebook(16, "SSD", 15.6, "Dell", "Windows", "Black");
-        System.out.println(n);
-    }
-}
-
 
 // public class Notebook {
 //     private final int ram;
