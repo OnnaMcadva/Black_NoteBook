@@ -45,7 +45,7 @@ public class Notebook {
                 os, ram, drive, screenSize, brand, color
         );
     }
-
+}
 
 // public class Notebook {
 //     private final int ram;
